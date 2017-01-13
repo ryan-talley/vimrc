@@ -19,7 +19,7 @@ Plugin 'jnurmine/Zenburn'
 Plugin 'tpope/vim-fugitive'
 Plugin 'Lokaltog/vim-powerline'
 Plugin 'vim-syntastic/syntastic'
-Plugin 'ctrlvim/ctrlp.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'fatih/vim-go'
 Plugin 'pangloss/vim-javascript'
 
